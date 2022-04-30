@@ -114,7 +114,7 @@ function App() {
     MAX_SUPPLY: 9999,
     WEI_COST: 80000000000000000,
     DISPLAY_COST: 0.08,
-    GAS_LIMIT: 40000,
+    GAS_LIMIT: 21000,
     MARKETPLACE: "OpenSea",
     MARKETPLACE_LINK: "https://opensea.io/collection/sweti-yeti-launch-club-sylc",
     SHOW_BACKGROUND: false,
