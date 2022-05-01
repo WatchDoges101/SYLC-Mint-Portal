@@ -112,7 +112,7 @@ function App() {
     NFT_NAME: "Sweti Yeti Launch Club",
     SYMBOL: "SYLC",
     MAX_SUPPLY: 9999,
-    WEI_COST: 80000000000000000n,
+    WEI_COST: 21000,
     DISPLAY_COST: 0.08,
     GAS_LIMIT: 21000,
     MARKETPLACE: "OpenSea",
